@@ -1,5 +1,5 @@
 # Awesome Document Image Rectification [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A comprehensive list of awesome document image rectification papers.
+> A comprehensive list of awesome document image rectification methods based on deep learning.
 ## Table of contents
 
 - [Papers](papers)
