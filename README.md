@@ -33,4 +33,5 @@
 |2018|CVPR|[DocUNet: Document Image Unwarping via A Stacked U-Net](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)|[Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html)|
 |2019|TOG|[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/pdf/1909.09470.pdf)|[Dataset](https://github.com/xiaoyu258/DocProj)|
 |2019|ICCV|[DewarpNet: Single-Image Document Unwarping With Stacked 3D and 2D Regression Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Das_DewarpNet_Single-Image_Document_Unwarping_With_Stacked_3D_and_2D_Regression_ICCV_2019_paper.pdf)|[Dataset](https://github.com/fh2019ustc/doc3D-dataset)|
-
+|2020|DAS|[Dewarping Document Image by Displacement Flow Estimation with Fully Convolutional Network](https://arxiv.org/pdf/2104.06815.pdf)|[Dataset](https://github.com/gwxie/Distorted-Image-With-Flow)|
+|2021|ICDAR|[Document Dewarping with Control Points](https://arxiv.org/pdf/2203.10543.pdf)|[Dataset](https://github.com/gwxie/Synthesize-Distorted-Image-and-Its-Control-Points)|
