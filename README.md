@@ -9,7 +9,7 @@
 # Papers
 
 
-|Year|Conf|Title|Link|
+|Year|Conf|Title|Repo|
 |----|----|-----|----|
 |2018|CVPR|[DocUNet: Document Image Unwarping via A Stacked U-Net](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)||
 |2019|TOG|[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/pdf/1909.09470.pdf)|[Code](https://github.com/xiaoyu258/DocProj)|
@@ -29,7 +29,7 @@
 
 # Datasets
 
-|Year|Conf|Title|Type|Repo|
+|Year|Conf|Title|Type|Link|
 |----|----|-----|----|----|
 |2018|CVPR|[DocUNet: Document Image Unwarping via A Stacked U-Net](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)|Real|[Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html)|
 |2019|TOG|[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/pdf/1909.09470.pdf)|Synthetic|[Dataset](https://github.com/xiaoyu258/DocProj)|
