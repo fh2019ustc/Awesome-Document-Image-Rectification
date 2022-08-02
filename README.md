@@ -9,7 +9,7 @@
 # Papers
 
 
-|Year|Conf|Title|Repo|
+|Year|Conf|Title|Link|
 |----|----|-----|----|
 |2018|CVPR|[DocUNet: Document Image Unwarping via A Stacked U-Net](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)||
 |2019|TOG|[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/pdf/1909.09470.pdf)|[Code](https://github.com/xiaoyu258/DocProj)|
