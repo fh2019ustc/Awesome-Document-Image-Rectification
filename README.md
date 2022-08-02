@@ -36,3 +36,4 @@
 |2019|ICCV|[DewarpNet: Single-Image Document Unwarping With Stacked 3D and 2D Regression Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Das_DewarpNet_Single-Image_Document_Unwarping_With_Stacked_3D_and_2D_Regression_ICCV_2019_paper.pdf)|[Dataset](https://github.com/fh2019ustc/doc3D-dataset)|
 |2020|DAS|[Dewarping Document Image by Displacement Flow Estimation with Fully Convolutional Network](https://arxiv.org/pdf/2104.06815.pdf)|[Dataset](https://github.com/gwxie/Distorted-Image-With-Flow)|
 |2021|ICDAR|[Document Dewarping with Control Points](https://arxiv.org/pdf/2203.10543.pdf)|[Dataset](https://github.com/gwxie/Synthesize-Distorted-Image-and-Its-Control-Points)|
+|2022|SIGGRAPH|[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/pdf/10.1145/3528233.3530756)|[Code](https://github.com/cvlab-stonybrook/PaperEdge)|
