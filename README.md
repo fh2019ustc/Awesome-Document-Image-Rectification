@@ -23,7 +23,7 @@
 |2022|Arxiv|[DocScanner: Robust Document Image Rectification with Progressive Learning](https://arxiv.org/pdf/2110.14968v2.pdf)||
 |2022|CVPR|[Fourier Document Restoration for Robust Document Dewarping and Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)||
 |2022|CVPR|[Revisiting Document Image Dewarping by Grid Regularization](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf)||
-|2022|MM|[Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild](https://arxiv.org/pdf/2207.11515.pdf)||
+|2022|MM|[Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild](https://arxiv.org/pdf/2207.11515.pdf)|[Code]( https://github.com/ZZZHANG-jx/Marior)|
 
 
 # Datasets
