@@ -26,6 +26,7 @@
 |2022|ACM MM|[Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild](https://arxiv.org/pdf/2207.11515.pdf)|[Code]( https://github.com/ZZZHANG-jx/Marior)||
 |2022|SIGGRAPH|[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/pdf/10.1145/3528233.3530756)|[Code](https://github.com/cvlab-stonybrook/PaperEdge)|[Link](https://drive.google.com/file/d/1QM3Y5Ty96ydVCQPNqR0_bnMG9oqIQkGm/view?usp=sharing)|
 
+- The results are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
 
 # Datasets
 
