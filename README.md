@@ -39,3 +39,6 @@
 |2021|ICDAR|[Document Dewarping with Control Points](https://arxiv.org/pdf/2203.10543.pdf)|Synthetic|[Dataset](https://github.com/gwxie/Synthesize-Distorted-Image-and-Its-Control-Points)|
 |2022|CVPR|[Fourier Document Restoration for Robust Document Dewarping and Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)|Real|[Dataset](https://sg-vilab.github.io/event/warpdoc/)|
 |2022|SIGGRAPH|[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/pdf/10.1145/3528233.3530756)|Real|[Dataset](https://github.com/cvlab-stonybrook/PaperEdge)|
+
+## Acknowledgment
+* This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences.
