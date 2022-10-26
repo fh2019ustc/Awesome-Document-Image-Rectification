@@ -18,7 +18,7 @@
 |2020|CVPR|[BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image*](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.pdf)|||
 |2020|ECCV|[Can You Read Me Now? Content Aware Rectification using Angle Supervision](https://arxiv.org/pdf/2008.02231.pdf)|||
 |2020|DAS|[Dewarping Document Image by Displacement Flow Estimation with Fully Convolutional Network](https://arxiv.org/pdf/2104.06815.pdf)|[Code](https://github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation)||
-|2020|BMVC|[Intrinsic decomposition of document images in-the-wild](https://arxiv.org/pdf/2011.14447.pdf)|[Code](https://github.com/cvlab-stonybrook/DocIIW)||
+|2020|BMVC|[Intrinsic Decomposition of Document Images In-the-wild](https://arxiv.org/pdf/2011.14447.pdf)|[Code](https://github.com/cvlab-stonybrook/DocIIW)||
 |2021|ACM MM|[DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction*](https://arxiv.org/pdf/2110.12942.pdf)|[Code](https://github.com/fh2019ustc/DocTr)|[Link](https://drive.google.com/drive/folders/1kJ34Nk18RVPwYK8mdfcQvU_67whD9tMe?usp=sharing)|
 |2021|ICCV|[End-to-end Piece-wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/papers/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.pdf)|[Code](https://github.com/sagniklp/PiecewiseUnwarp)||
 |2021|ICDAR|[Document Dewarping with Control Points](https://arxiv.org/pdf/2203.10543.pdf)|[Code](https://github.com/gwxie/Document-Dewarping-with-Control-Points)|
