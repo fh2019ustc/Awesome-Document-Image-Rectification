@@ -22,7 +22,6 @@
 |2021|ACM MM|[DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction*](https://arxiv.org/pdf/2110.12942.pdf)|[Code](https://github.com/fh2019ustc/DocTr)|[Link](https://drive.google.com/drive/folders/1kJ34Nk18RVPwYK8mdfcQvU_67whD9tMe?usp=sharing)|
 |2021|ICCV|[End-to-end Piece-wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/papers/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.pdf)|[Code](https://github.com/sagniklp/PiecewiseUnwarp)||
 |2021|ICDAR|[Document Dewarping with Control Points](https://arxiv.org/pdf/2203.10543.pdf)|[Code](https://github.com/gwxie/Document-Dewarping-with-Control-Points)|
-|2022|Arxiv|[DocScanner: Robust Document Image Rectification with Progressive Learning](https://arxiv.org/pdf/2110.14968v2.pdf)|[Code](https://github.com/fh2019ustc/DocScanner)|[Link](https://drive.google.com/drive/folders/1QBe26xJwIl38sWqK2ZE9ke5nu0Mpr4dW?usp=sharing)|
 |2022|CVPR|[Fourier Document Restoration for Robust Document Dewarping and Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)|||
 |2022|CVPR|[Revisiting Document Image Dewarping by Grid Regularization](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf)||[Link](https://drive.google.com/drive/folders/1Czgy0s2CbLrs__a-Q838fzre3tWhaTjq?usp=share_link)|
 |2022|ACM MM|[Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild](https://arxiv.org/pdf/2207.11515.pdf)|[Code]( https://github.com/ZZZHANG-jx/Marior)||
@@ -30,6 +29,7 @@
 |2022|SIGGRAPH|[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/pdf/10.1145/3528233.3530756)|[Code](https://github.com/cvlab-stonybrook/PaperEdge)|[Link](https://drive.google.com/file/d/1QM3Y5Ty96ydVCQPNqR0_bnMG9oqIQkGm/view?usp=sharing)|
 |2022|ECCV|[Geometric Representation Learning for Document Image Rectification](https://arxiv.org/pdf/2210.08161.pdf)|[Code](https://github.com/fh2019ustc/DocGeoNet)|[Link](https://pan.baidu.com/s/16xnV2Sv7xliUO_5bVGDo-Q?pwd=nszy)|
 |2022|ECCV|[Learning an Isometric Surface Parameterization for Texture Unwrapping](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970568.pdf)|||
+|2022|Arxiv|[DocScanner: Robust Document Image Rectification with Progressive Learning](https://drive.google.com/file/d/1mmCUj90rHyuO1SmpLt361youh-07Y0sD/view?usp=share_link)|[Code](https://github.com/fh2019ustc/DocScanner)|[Link](https://drive.google.com/drive/folders/1QBe26xJwIl38sWqK2ZE9ke5nu0Mpr4dW?usp=sharing)|
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
 - The "*" means that the work involves the illumination correction for document images.
