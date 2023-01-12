@@ -9,7 +9,7 @@
 # Papers
 
 
-|***Year***|***Conf.***|***Title***|***Repo***|***Result***|
+|***Year***|***Venue***|***Title***|***Repo***|***Result***|
 |----|----|-----|----|----|
 |2018|CVPR|[DocUNet: Document Image Unwarping via A Stacked U-Net](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)|||
 |2019|TOG|[Document Rectification and Illumination Correction using a Patch-based CNN*](https://arxiv.org/pdf/1909.09470.pdf)|[Code](https://github.com/xiaoyu258/DocProj)||
@@ -37,7 +37,7 @@
 
 # Datasets
 
-|***Year***|***Conf.***|***Title***|***Type***|***Link***|
+|***Year***|***Venue***|***Title***|***Type***|***Link***|
 |----|----|-----|----|----|
 |2018|CVPR|[DocUNet: Document Image Unwarping via A Stacked U-Net](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DocUNet_Document_Image_CVPR_2018_paper.pdf)|Real|[Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html)|
 |2019|TOG|[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/pdf/1909.09470.pdf)|Synthetic|[Dataset](https://github.com/xiaoyu258/DocProj)|
@@ -50,4 +50,4 @@
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 
 ## Acknowledgment
-* This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences.
+* This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences and Journals.
