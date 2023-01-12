@@ -50,4 +50,4 @@
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 
 ## Acknowledgment
-* This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences and Journals.
+* This repository is scheduled to be updated regularly in accordance with schedules of major AI Conferences and Journals.
