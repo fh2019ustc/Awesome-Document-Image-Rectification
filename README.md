@@ -30,6 +30,7 @@
 |2022|ECCV|[Geometric Representation Learning for Document Image Rectification](https://arxiv.org/pdf/2210.08161.pdf)|[Code](https://github.com/fh2019ustc/DocGeoNet)|[Link](https://pan.baidu.com/s/16xnV2Sv7xliUO_5bVGDo-Q?pwd=nszy)|
 |2022|ECCV|[Learning an Isometric Surface Parameterization for Texture Unwrapping](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970568.pdf)|||
 |2022|Arxiv|[DocScanner: Robust Document Image Rectification with Progressive Learning](https://drive.google.com/file/d/1mmCUj90rHyuO1SmpLt361youh-07Y0sD/view?usp=share_link)|[Code](https://github.com/fh2019ustc/DocScanner)|[Link](https://drive.google.com/drive/folders/1QBe26xJwIl38sWqK2ZE9ke5nu0Mpr4dW?usp=sharing)|
+|2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|||
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
 - The "*" means that the work involves the illumination correction for document images.
@@ -46,6 +47,7 @@
 |2022|CVPR|[Fourier Document Restoration for Robust Document Dewarping and Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)|Real|[Dataset](https://sg-vilab.github.io/event/warpdoc/)|
 |2022|SIGGRAPH|[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/pdf/10.1145/3528233.3530756)|Real|[Dataset](https://github.com/cvlab-stonybrook/PaperEdge)|
 |2022|ECCV|[Geometric Representation Learning for Document Image Rectification](https://arxiv.org/pdf/2210.08161.pdf)|Real|[Dataset](https://drive.google.com/drive/folders/1yySouQQ3BlH7OjnUhq4CLuvpX2KXtifX?usp=sharing)|
+|2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 
 ## Acknowledgment
 * This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences.
