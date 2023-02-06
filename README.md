@@ -49,7 +49,7 @@
 |2022|CVPR|[Fourier Document Restoration for Robust Document Dewarping and Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)|Real|[Dataset](https://sg-vilab.github.io/event/warpdoc/)|
 |2022|SIGGRAPH|[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/pdf/10.1145/3528233.3530756)|Real|[Dataset](https://github.com/cvlab-stonybrook/PaperEdge)|
 |2022|ECCV|[Geometric Representation Learning for Document Image Rectification](https://arxiv.org/pdf/2210.08161.pdf)|Real|[Dataset](https://drive.google.com/drive/folders/1yySouQQ3BlH7OjnUhq4CLuvpX2KXtifX?usp=sharing)|
-|2022|ICBD|[ADIU:An Antiquarian Document Image Unwarping Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020521)|Both||
+|2022|ICBD|[ADIU: An Antiquarian Document Image Unwarping Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020521)|Both||
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 
 ## Acknowledgment
