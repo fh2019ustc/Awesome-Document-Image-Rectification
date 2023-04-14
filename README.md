@@ -53,6 +53,7 @@
 |2022|ICBD|[ADIU: An Antiquarian Document Image Unwarping Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020521)|Both||
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 |2023|Arxiv|[DocTr++: Deep Unrestricted Document Image Rectification](https://github.com/fh2019ustc/DocTr-Plus)|Real|[Dataset](https://github.com/fh2019ustc/DocTr-Plus)|
+|2023|Arxiv|[Neural Document Unwarping using Coupled Grids](https://arxiv.org/pdf/2302.02887.pdf)|Synthetic||
 
 ## Acknowledgment
 * This repository is scheduled to be updated regularly in accordance with schedules of major AI Conferences and Journals.
