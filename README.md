@@ -62,6 +62,7 @@
 |2019|[DewarpNet: Single-Image Document Unwarping With Stacked 3D and 2D Regression Networks](https://sagniklp.github.io/dewarpnet-demo/)|  | Online Demo |
 |2021|[DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction](https://huggingface.co/spaces/HaoFeng2019/DocTr)| huggingface | Online Demo |
 |2022|[DocGeoNet: Geometric Representation Learning for Document Image Rectification](https://huggingface.co/spaces/HaoFeng2019/DocGeoNet)| huggingface | Online Demo |
+|2022|[dewarp](https://www.textin.com/experience/dewarp)| textin | Online Demo |
 |2023|[Deep Unrestricted Document Image Rectification](https://doctrp.docscanner.top/)| self-hosted | Online Demo |
 
 
