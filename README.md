@@ -2,8 +2,9 @@
 > A comprehensive list of awesome document image rectification methods based on deep learning.
 ## Table of contents
 
-- [Papers](papers)
+- [Papers](#papers)
 - [Datasets](#datasets)
+- [Demos](#demos)
 
 
 # Papers
@@ -54,6 +55,14 @@
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 |2023|Arxiv|[Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796)|Real|[Dataset](https://github.com/fh2019ustc/DocTr-Plus)|
 |2023|Arxiv|[Neural Document Unwarping using Coupled Grids](https://arxiv.org/pdf/2302.02887.pdf)|Synthetic||
+
+# Demos
+|***Year***|***Name***|***Host***|***Type***|
+|----|-----|----|----|
+|2023|[DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction](https://huggingface.co/spaces/HaoFeng2019/DocTr)| huggingface | Online Demo |
+|2023|[DocGeoNet: Geometric Representation Learning for Document Image Rectification](https://huggingface.co/spaces/HaoFeng2019/DocGeoNet)| huggingface | Online Demo |
+|2023|[DocTr++: Deep Unrestricted Document Image Rectification](https://doctrp.docscanner.top/)| self-hosted | Online Demo |
+
 
 ## Acknowledgment
 * This repository is scheduled to be updated regularly in accordance with schedules of major AI Conferences and Journals.
