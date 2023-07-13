@@ -59,6 +59,7 @@
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 |2023|Arxiv|[Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796)|Real|[Dataset](https://github.com/fh2019ustc/DocTr-Plus)|
 |2023|Arxiv|[Neural Document Unwarping using Coupled Grids](https://arxiv.org/pdf/2302.02887.pdf)|Synthetic||
+|2023|Arxiv|[DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/pdf/2306.05749.pdf)|Real|[Dataset](https://github.com/ZZZHANG-jx/DocAligner)|
 
 # Demos
 |***Year***|***Name***|***Host***|***Type***|
