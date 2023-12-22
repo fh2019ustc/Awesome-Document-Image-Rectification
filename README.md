@@ -65,6 +65,7 @@
 |2023|TMM|[Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796)|Real|[Dataset](https://github.com/fh2019ustc/DocTr-Plus)|
 |2023|Arxiv|[Neural Document Unwarping using Coupled Grids](https://arxiv.org/pdf/2302.02887.pdf)|Synthetic||
 |2023|Arxiv|[DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/pdf/2306.05749.pdf)|Real|[Dataset](https://github.com/ZZZHANG-jx/DocAligner)|
+|2023|IJDAR|[Inv3D: A High-resolution 3D Invoice Dataset for Template-guided Single-image Document Unwarping](https://link.springer.com/article/10.1007/s10032-023-00434-x)|Synthetic|[Dataset](https://felixhertlein.github.io/inv3d/#Downloads)|
 
 # Demos
 |***Year***|***Name***|***Host***|***Type***|
@@ -74,6 +75,7 @@
 |2022|[DocGeoNet: Geometric Representation Learning for Document Image Rectification](https://huggingface.co/spaces/HaoFeng2019/DocGeoNet)| huggingface | Online Demo |
 |2022|[dewarp](https://www.textin.com/experience/dewarp)| textin | Online Demo |
 |2023|[Deep Unrestricted Document Image Rectification](https://demo.doctrp.top/)| self-hosted | Online Demo |
+|2023|[Inv3D: GeoTrTemplate & IllTrTemplate](https://felixhertlein.de/docrefine/home)| self-hosted | Online Demo |
 
 
 ## Acknowledgment
