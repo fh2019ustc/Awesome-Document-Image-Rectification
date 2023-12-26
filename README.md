@@ -41,7 +41,7 @@
 |2023|Arxiv|[MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arxiv.org/pdf/2307.12571)|||
 |2023|ICCVW|[Template-guided Illumination Correction for Document Images with Imperfect Geometric Reconstruction](https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Hertlein_Template-Guided_Illumination_Correction_for_Document_Images_with_Imperfect_Geometric_Reconstruction_ICCVW_2023_paper.pdf)|[Code](https://github.com/FelixHertlein/illtrtemplate-model)||
 |2023|ICCV|[Foreground and Text-lines Aware Document Image Rectification](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Foreground_and_Text-lines_Aware_Document_Image_Rectification_ICCV_2023_paper.pdf)|[Code](https://github.com/xiaomore/document-image-dewarping)||
-|2023|TAI|[Appearance Enhancement for Camera-captured Document Images in the Wild*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268585)|||
+|2023|TAI|[Appearance Enhancement for Camera-captured Document Images in the Wild*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268585)|[code](https://github.com/ZZZHANG-jx/GCDRNet)||
 |2023|ACM TOG|[Layout-Aware Single-Image Document Flatening](https://dl.acm.org/doi/pdf/10.1145/3627818)|[Code](https://github.com/BunnySoCrazy/LA-DocFlatten)|[Link](https://github.com/BunnySoCrazy/LA-DocFlatten)|
 
 
