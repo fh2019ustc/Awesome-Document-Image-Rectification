@@ -48,7 +48,7 @@
 |2023|SIGGRAPH|[UVDoc: Neural Grid-based Document Unwarping](https://dl.acm.org/doi/fullHtml/10.1145/3610548.3618174)|[Code](https://github.com/tanguymagne/UVDoc)||
 |2023|arXiv|[Polar-Doc: One-Stage Document Dewarping with Multi-Scope Constraints under Polar Representation](https://arXiv.org/abs/2312.07925)|||
 |2024|ACM MM|[Document Registration: Towards Automated Labeling of Pixel-Level Alignment Between Warped-Flat Documents](https://openreview.net/pdf?id=EjjY5yJzQG)|||
-|2024|CVPR|[Docres: a generalist model toward unifying document image restoration tasks](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf)|[Code](https://github.com/ZZZHANG-jx/DocRes)||
+|2024|CVPR|[DocRes: a generalist model toward unifying document image restoration tasks](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf)|[Code](https://github.com/ZZZHANG-jx/DocRes)||
 
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
