@@ -35,7 +35,6 @@
 |2023|arXiv|[Geometric Rectification of Creased Document Images based on Isometric Mapping](https://arXiv.org/abs/2212.08365)|||
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|||
 |2023|TMM|[Deep Unrestricted Document Image Rectification](https://arXiv.org/abs/2304.08796)|[Code](https://github.com/fh2019ustc/DocTr-Plus)|
-|2023|arXiv|[Neural Document Unwarping using Coupled Grids](https://arXiv.org/pdf/2302.02887.pdf)|||
 |2023|IJDAR|[Inv3D: A High-resolution 3D Invoice Dataset for Template-guided Single-image Document Unwarping](https://link.springer.com/article/10.1007/s10032-023-00434-x)|[Code](https://github.com/FelixHertlein/inv3d-model)||
 |2023|arXiv|[DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arXiv.org/pdf/2306.05749.pdf)|[Code](https://github.com/ZZZHANG-jx/DocAligner)||
 |2023|arXiv|[MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arXiv.org/pdf/2307.12571)|||
