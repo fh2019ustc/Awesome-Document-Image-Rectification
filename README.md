@@ -70,7 +70,7 @@
 |2022|ICBD|[ADIU: An Antiquarian Document Image Unwarping Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020521)|Both||
 |2023|IJDAR|[Adaptive Dewarping of Severely Warped Camera-captured Document Images Based on Document Map Generation](https://link.springer.com/content/pdf/10.1007/s10032-022-00425-4.pdf?pdf=button)|Real|[Dataset](https://github.com/NachappaCH/Dewarping-Dataset-Annotations)|
 |2023|TMM|[Deep Unrestricted Document Image Rectification](https://arXiv.org/abs/2304.08796)|Real|[Dataset](https://github.com/fh2019ustc/DocTr-Plus)|
-|2023|arXiv|[Neural Document Unwarping using Coupled Grids](https://arXiv.org/pdf/2302.02887.pdf)|Synthetic||
+|2023|SIGGRAPH|[UVDoc: Neural Grid-based Document Unwarping](https://arXiv.org/pdf/2302.02887.pdf)|Synthetic|[Dataset](https://github.com/tanguymagne/UVDoc-Dataset)|
 |2023|arXiv|[DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arXiv.org/pdf/2306.05749.pdf)|Real|[Dataset](https://github.com/ZZZHANG-jx/DocAligner)|
 |2023|IJDAR|[Inv3D: A High-resolution 3D Invoice Dataset for Template-guided Single-image Document Unwarping](https://link.springer.com/article/10.1007/s10032-023-00434-x)|Synthetic|[Dataset](https://felixhertlein.github.io/inv3d/#Downloads)|
 
