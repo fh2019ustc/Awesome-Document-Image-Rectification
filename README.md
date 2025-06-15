@@ -50,7 +50,8 @@
 |2024|CVPR|[DocRes: a generalist model toward unifying document image restoration tasks](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.pdf)|[Code](https://github.com/ZZZHANG-jx/DocRes)||
 |2025|IJCV|[DocScanner: Robust Document Image Rectification with Progressive Learning](https://drive.google.com/file/d/1mmCUj90rHyuO1SmpLt361youh-07Y0sD/view?usp=share_link)|[Code](https://github.com/fh2019ustc/DocScanner)|[Link](https://drive.google.com/drive/folders/1QBe26xJwIl38sWqK2ZE9ke5nu0Mpr4dW?usp=sharing)|
 |2025|WACV|[DocMatcher: Document Image Dewarping via Structural and Textual Line Matching](https://openaccess.thecvf.com/content/WACV2025/papers/Hertlein_DocMatcher_Document_Image_Dewarping_via_Structural_and_Textual_Line_Matching_WACV_2025_paper.pdf)|[Code](https://github.com/FelixHertlein/doc-matcher)||
-
+|2025|CVPR|[Document Image Rectification using Stable Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025W/WiCV/papers/Kumari_Document_Image_Rectification_using_Stable_Diffusion_Transformer_CVPRW_2025_paper.pdf)|||
+|2025|arXiv|[DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model](https://arxiv.org/abs/2505.21975)|||
 
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
