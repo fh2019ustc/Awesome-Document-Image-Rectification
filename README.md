@@ -52,7 +52,7 @@
 |2025|WACV|[DocMatcher: Document Image Dewarping via Structural and Textual Line Matching](https://openaccess.thecvf.com/content/WACV2025/papers/Hertlein_DocMatcher_Document_Image_Dewarping_via_Structural_and_Textual_Line_Matching_WACV_2025_paper.pdf)|[Code](https://github.com/FelixHertlein/doc-matcher)||
 |2025|CVPR|[Document Image Rectification using Stable Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025W/WiCV/papers/Kumari_Document_Image_Rectification_using_Stable_Diffusion_Transformer_CVPRW_2025_paper.pdf)|||
 |2025|arXiv|[DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model](https://arxiv.org/abs/2505.21975)|||
-
+|2025|ICCV|[ForCenNet: Foreground-Centric Network for Document Image Rectification](https://arxiv.org/pdf/2507.19804v1)|[Code](https://github.com/caipeng328/ForCenNet)||
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
 - The "*" means that the work involves the illumination correction for document images.
