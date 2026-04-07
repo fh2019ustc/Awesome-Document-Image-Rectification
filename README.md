@@ -58,7 +58,7 @@
 |2025|ICCV|[ForCenNet: Foreground-Centric Network for Document Image Rectification](https://arxiv.org/pdf/2507.19804v1)|[Code](https://github.com/caipeng328/ForCenNet)||
 |2025|arXiv|[TADoc: Robust Time-Aware Document Image Dewarping](https://arxiv.org/pdf/2508.06988)|||
 |2026|arXiv|[BookNet: Book Image Rectification via Cross-Page Attention Network](https://arxiv.org/pdf/2601.21938)|||
-|2026|PR|[AFH-Net: An Adaptive Feature Harmonization Network for Document Image De-warping]([https://arxiv.org/pdf/2601.21938](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005741))|||
+|2026|PR|[AFH-Net: An Adaptive Feature Harmonization Network for Document Image De-warping](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005741)|||
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
 - The "*" means that the work involves the illumination correction for document images.
