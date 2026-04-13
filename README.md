@@ -54,7 +54,7 @@
 |2025|ICDAR|[DAA-Net: Dynamic Adaptive Aggregation Network for Document Image Rectification](https://link.springer.com/chapter/10.1007/978-3-032-09371-4_8)|||
 |2025|ACM MM|[Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion](https://arxiv.org/pdf/2508.04055)|||
 |2025|CVPR|[Document Image Rectification using Stable Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025W/WiCV/papers/Kumari_Document_Image_Rectification_using_Stable_Diffusion_Transformer_CVPRW_2025_paper.pdf)|||
-|2025|arXiv|[DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model](https://arxiv.org/abs/2505.21975)|||
+|2025|SIGGRAPH|[DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model](https://arxiv.org/abs/2505.21975)|[Code](https://github.com/hanquansanren/DvD)||
 |2025|ICCV|[ForCenNet: Foreground-Centric Network for Document Image Rectification](https://arxiv.org/pdf/2507.19804v1)|[Code](https://github.com/caipeng328/ForCenNet)||
 |2025|arXiv|[TADoc: Robust Time-Aware Document Image Dewarping](https://arxiv.org/pdf/2508.06988)|||
 |2026|arXiv|[BookNet: Book Image Rectification via Cross-Page Attention Network](https://arxiv.org/pdf/2601.21938)|||
