@@ -57,10 +57,10 @@
 |2025|SIGGRAPH|[DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model](https://arxiv.org/abs/2505.21975)|[Code](https://github.com/hanquansanren/DvD)||
 |2025|ICCV|[ForCenNet: Foreground-Centric Network for Document Image Rectification](https://arxiv.org/pdf/2507.19804v1)|[Code](https://github.com/caipeng328/ForCenNet)||
 |2025|arXiv|[TADoc: Robust Time-Aware Document Image Dewarping](https://arxiv.org/pdf/2508.06988)|||
-|2026|arXiv|[BookNet: Book Image Rectification via Cross-Page Attention Network](https://arxiv.org/pdf/2601.21938)|||
 |2026|AAAI|[Axis-Aligned Document Dewarping](https://arxiv.org/abs/2507.15000)|[Code](https://github.com/chaoyunwang/AADD)|[Link](https://pan.baidu.com/s/1tNYoC3yeM8dRJvEQzGTPWQ?pwd=j68u)|
 |2026|TMM|[Cascaded Robust Rectification for Arbitrary Document Images](https://arxiv.org/abs/2511.23150)|[Code](https://github.com/chaoyunwang/ArbDR)|[Link](https://pan.baidu.com/s/1aI7WpmOU8YjXGtkneknCSw?pwd=mdqd)|
 |2026|PR|[AFH-Net: An Adaptive Feature Harmonization Network for Document Image De-warping](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005741)|||
+|2026|TMM|[BookNet: Book Image Rectification via Cross-Page Attention Network](https://arxiv.org/pdf/2601.21938)|[Code](https://github.com/Liu-Shaokai/BookNet)||
 
 - The ***results*** are the rectified images on the [DocUNet Benchmark Dataset](https://www3.cs.stonybrook.edu/~cvl/docunet.html).
 - The "*" means that the work involves the illumination correction for document images.
@@ -83,6 +83,7 @@
 |2023|SIGGRAPH|[UVDoc: Neural Grid-based Document Unwarping](https://arXiv.org/pdf/2302.02887.pdf)|Synthetic|[Dataset](https://github.com/tanguymagne/UVDoc-Dataset)|
 |2023|arXiv|[DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arXiv.org/pdf/2306.05749.pdf)|Real|[Dataset](https://github.com/ZZZHANG-jx/DocAligner)|
 |2023|IJDAR|[Inv3D: A High-resolution 3D Invoice Dataset for Template-guided Single-image Document Unwarping](https://link.springer.com/article/10.1007/s10032-023-00434-x)|Synthetic|[Dataset](https://felixhertlein.github.io/inv3d/#Downloads)|
+|2026|TMM|[BookNet: Book Image Rectification via Cross-Page Attention Network](https://arxiv.org/pdf/2601.21938)|Both|[Dataset](https://github.com/Liu-Shaokai/BookNet)|
 
 # Demos
 |***Year***|***Name***|***Host***|***Type***|
